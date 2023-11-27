@@ -21,10 +21,10 @@ The dataset includes the following 10 independent variables, including a unique 
 - price: The price of the given diamond.
 
 ## Methodology
-In this project, we implement modular coding practices to ensure a well-structured and automated workflow. We create two primary pipelines: a training pipeline and a prediction pipeline. The goal is to streamline the entire process from data preparation to model deployment.To enhance code robustness and maintainability, we implement logging and exception handling mechanisms, ensuring a smooth and error-free execution of the project.
+In this project, I implement modular coding practices to ensure a well-structured and automated workflow. I create two primary pipelines: a training pipeline and a prediction pipeline. The goal is to streamline the entire process from data preparation to model deployment.To enhance code robustness and maintainability, I implement logging and exception handling mechanisms, ensuring a smooth and error-free execution of the project.
 
 ## Regression Model
-We explore various regression models, including Linear Regression, Lasso Regression, Ridge Regression, Elastic Net, and Decision Tree Regression. After thorough evaluation, the Decision Tree model outperformed the others with an impressive R-squared (R²) score of 0.954266, making it the model of choice for this project.
+I explore various regression models, including Linear Regression, Lasso Regression, Ridge Regression, Elastic Net, and Decision Tree Regression. After thorough evaluation, the Decision Tree model outperformed the others with an impressive R-squared (R²) score of 0.954266, making it the model of choice for this project.
 
 
 
